@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8de8d0c2-6d6e-44e2-b0fe-4a5fa1c78cf9" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/recbyhand.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/dataloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/dataloader4ml100kIndexs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/dataloader4ml100kOneHot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/s2_basicSim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/s34_userCF_01label.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/s35_itemCF_01label.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/s36_userItemCF_15label.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/s44_userItemCF_01label_eva.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/s44_userItemCF_15label_eva.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/s5_furtherSim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/s61_SVD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/s64_ALS_tradition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/s67_ALS_PyTorch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/s72_LR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/s73_POLY2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/s74_FM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/s75_FM_embedding_style.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/s11a_ALS_MLP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/s11b_ALS_CONCAT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/s12_Embedding_MLP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/s13_CNN_rec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/s14_RNN_data_prepare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/s14_RNN_rec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/s15_RNN_rec_ALS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/s16_RNN_rec_withPredictHistorySeq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/s22_FNN_plus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/s24_DeepFM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/s25_AFM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/s31_base_Sequential.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/s32_DIN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/s34_DIEN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/s410_transformer_rec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/s47_transformerOnlyEncoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/s48_BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/s49_transformer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/dataloader4graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/pygDataLoader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/s11_graphBasic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/s24_deepwalk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/s24_word2vec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/s25_node2vec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/s31_gcn_pgy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/s32_gat_pgy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/s41_GCN4Rec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/s42_GAT4Rec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/s43_GFM4Rec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/s44_GAFM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/dataloader4KGNN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/dataloader4kge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/s21_TransE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/s22_TransH.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/s23_TransR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/s25_RESCAL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/s32_CKE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/s34_MKR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/s42_pathSim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/s43_per.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/s44_MetaPath2vec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/s54_ripplenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/s61_KGCN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/s63_KGAT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/s64_KGFM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/s31_min_hash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/s32_lsh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/s33_dssm&amp;lsh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/s15_roc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/s16_auc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/s17_logloss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/s22_topkEva.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/s27_topkEvaAll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/s24_entropy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Cora/Cora/processed/data.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Cora/Cora/processed/pre_filter.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Cora/Cora/processed/pre_transform.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Cora/Cora/raw/ind.cora.allx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Cora/Cora/raw/ind.cora.ally" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Cora/Cora/raw/ind.cora.graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Cora/Cora/raw/ind.cora.test.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Cora/Cora/raw/ind.cora.tx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Cora/Cora/raw/ind.cora.ty" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Cora/Cora/raw/ind.cora.x" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Cora/Cora/raw/ind.cora.y" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_set/filepaths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_set/ml-100k-orginal/item_df.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_set/ml-100k-orginal/item_df_0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_set/ml-100k-orginal/u.item" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_set/ml-100k-orginal/u.occupation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_set/ml-100k-orginal/u.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_set/ml-100k-orginal/ua.base" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_set/ml-100k-orginal/ua.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_set/ml-100k-orginal/user_df.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_set/ml-100k/kg_index.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_set/ml-100k/rating_index.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_set/ml-100k/rating_index_5.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_set/ml-latest-small/rating_index_ts.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_set/ml-latest-small/seqTargets.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_set/ml-latest-small/seqs.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_set/ml-latest-small/seqsWithNeg.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_set/model/gitkeep.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/evaluate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/osUtils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/topKevaluate.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="3B0Mombnyi3vZwpNZ7QBFhyLG1p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/code/recbyhand",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.19416.19" />
+        <option value="bundled-python-sdk-337b0a7a993a-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.19416.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8de8d0c2-6d6e-44e2-b0fe-4a5fa1c78cf9" name="更改" comment="" />
+      <created>1773621713497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773621713497</updated>
+      <workItem from="1773621714973" duration="1248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
